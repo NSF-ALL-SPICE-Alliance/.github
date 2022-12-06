@@ -1,4 +1,4 @@
-<img src="spice_logo_circle.png" width="840" />
+<div style="text-align:center"><img src="spice_logo_circle.png" width="600" />
 
 
 
