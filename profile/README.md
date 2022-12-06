@@ -4,7 +4,7 @@
 
 <img src="cuh_logo.png" width="120" /> <img src="cifal_logo.png" width="210" /> <img src="tacc_logo.png" width="120" /> <img src="uh_logo.png" width="120" /> <img src="hidsi_logo.png" width="120" /> <img src="east_west_logo.png" width="120" /> 
 
-#### Welcome
+## Welcome
 
 This Github Organization is to collaborate, share, and ensure the reproducibility of the data science practiced by the NSF INCLUDES Alliance: Alliance Supporting Pacific Impact through Computational Excellence (ALL-SPICE) (Award Number 2217242)
 
