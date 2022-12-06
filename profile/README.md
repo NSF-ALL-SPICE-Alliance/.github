@@ -16,7 +16,7 @@ This Github Organization is to collaborate, share, and ensure the reproducibilit
 
 The repositories are project-based, with the beginning of the repository indicating collaboration:
 
-  - For example: The ALL-SPICE Alliance partners with CIFAL Honolulu. The repositories/projects that fall under this partnership begin with CIFAL-Honolulu. This is followed by the project name, SDG-ML (Sustainable Development Goal - Machine Learning). All the code, data, and analysis for this project can be found in the CIFAL-Honolulu-SDG-ML repository
+  - For example: The ALL-SPICE Alliance partners with [CIFAL Honolulu](https://chaminade.edu/cifal-honolulu/). The repositories/projects that fall under this partnership begin with CIFAL-Honolulu. This is followed by the project name, SDG-ML (Sustainable Development Goal - Machine Learning). All the code, data, and analysis for this project can be found in the CIFAL-Honolulu-SDG-ML repository
 
 Each repository will contain the following
   - A README file (similiar to this one) that indicates:
