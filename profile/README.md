@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img width="600" src="SpiceLogo2 (1).png">
+  <img width="600" src="SpiceLogo2(1).png">
 </p>
 
 <img src="cuh_logo.png" width="120" /> <img src="cifal_logo.png" width="210" /> <img src="tacc_logo.png" width="120" /> <img src="uh_logo.png" width="120" /> <img src="hidsi_logo.png" width="120" /> <img src="east_west_logo.png" width="120" /> 
