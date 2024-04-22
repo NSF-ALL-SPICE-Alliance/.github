@@ -14,20 +14,6 @@ This Github Organization is to collaborate, share, and ensure the reproducibilit
 
 *Harness the data revolution* in support of sustainability, prosperity, and social justice in the Hawaii-Pacific region, placing *Pacific data in Pacific hands*.
 
-### How to Navigate
-
-The repositories are project-based, with the beginning of the repository indicating collaboration:
-
-  - For example: The ALL-SPICE Alliance partners with [CIFAL Honolulu](https://chaminade.edu/cifal-honolulu/). The repositories/projects that fall under this partnership begin with CIFAL-Honolulu. This is followed by the project name, SDG-ML (Sustainable Development Goal - Machine Learning). All the code, data, and analysis for this project can be found in the CIFAL-Honolulu-SDG-ML repository
-
-Each repository will contain the following
-  - A README file (similiar to this one) that indicates:
-      - A description of the partnership 
-      - The purpose of the project
-      - How to navigate the repository
-  - A *data folder* housing all the data for the project
-  - An *analysis folder* housing all the code for the project
-  - A *visualizations* folder housing final visualizations of the project
 
 ### You can expect 
 
@@ -35,5 +21,28 @@ Each repository will contain the following
   - Contact information for project participants
   - Actionable, value-driven data science
 
+### Research 
+
+#### URE Spring 2024
+- [Aid Disbursement & Effectiveness in Small Island Deveolipng States (SIDS)](https://github.com/NSF-ALL-SPICE-Alliance/CIFAL-Honolulu-ROI-SIDS)
+- [Comparison of Outcomes by Service Setting for Substance Abuse Treatment in Hawaii](https://github.com/NSF-ALL-SPICE-Alliance/CDC-Treatment-ML)
+- [National Mental Health Services Survey](https://github.com/kbenozat/MH-NHSS)
+- [Maunalua Fishpond Heritage Center Dashboard & Analysis](https://github.com/NSF-ALL-SPICE-Alliance/MFHC)
+- [Coral Stress Test Analysis](https://github.com/SubinCho26/CoralHealthWeb)
+
+#### URE Fall 2023
+- 
+
+#### SPICE Summer Program 2023
+- Pacific Innovation Intelligence Initiative (P3I) Funded Projects
+  - [Climate Natural Language Processing (NLP)](https://github.com/NSF-ALL-SPICE-Alliance/SPICE-P3I-Climate-Health-NLP)
+  - [Resillience in Small Island Deveolipng States (SIDS)](https://github.com/NSF-ALL-SPICE-Alliance/SPICE-P3I-SIDS-Resillience)
+- EPSCOR Funded Projects
+  - [Hawaii Biodiversity](https://github.com/NSF-ALL-SPICE-Alliance/SPICE-Hawaii-Biodiversity)
+- Alliance Funded Projects
+  - [Housing & Tax Equity](https://github.com/NSF-ALL-SPICE-Alliance/SPICE-Housing-Tax-Equity)
+  - [Good Health & Well-Being](https://github.com/NSF-ALL-SPICE-Alliance/SPICE-Health)
+ 
+  
 
 
