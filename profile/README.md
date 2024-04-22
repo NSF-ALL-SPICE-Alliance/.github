@@ -21,9 +21,9 @@ This Github Organization is to collaborate, share, and ensure the reproducibilit
   - Contact information for project participants
   - Actionable, value-driven data science
 
-### Research 
+### All-SPICE Activities
 
-#### URE Spring 2024
+#### Activity 1.3 Undergraduate Research Experiences (URE) Spring 2024
 - [Aid Disbursement & Effectiveness in Small Island Developing States (SIDS)](https://github.com/NSF-ALL-SPICE-Alliance/CIFAL-Honolulu-ROI-SIDS)
 - [Comparison of Outcomes by Service Setting for Substance Abuse Treatment in Hawaii](https://github.com/NSF-ALL-SPICE-Alliance/CDC-Treatment-ML)
 - [National Mental Health Services Survey](https://github.com/kbenozat/MH-NHSS)
@@ -31,10 +31,10 @@ This Github Organization is to collaborate, share, and ensure the reproducibilit
 - [Coral Stress Test Analysis](https://github.com/SubinCho26/CoralHealthWeb)
 
 
-#### URE Fall 2023
+#### Activity 1.3 Undergraduate Research Experiences (URE) Fall 2023
 
 
-#### SPICE Summer Program 2023
+#### Activity 2.3 SPICE Summer Data Science Institute (Summer 2023)
 - Pacific Innovation Intelligence Initiative (P3I) Funded Projects
   - [Climate Natural Language Processing (NLP)](https://github.com/NSF-ALL-SPICE-Alliance/SPICE-P3I-Climate-Health-NLP)
   - [Resillience in Small Island Developing States (SIDS)](https://github.com/NSF-ALL-SPICE-Alliance/SPICE-P3I-SIDS-Resillience)
