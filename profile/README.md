@@ -24,25 +24,27 @@ This Github Organization is to collaborate, share, and ensure the reproducibilit
 ### Research 
 
 #### URE Spring 2024
-- [Aid Disbursement & Effectiveness in Small Island Deveolipng States (SIDS)](https://github.com/NSF-ALL-SPICE-Alliance/CIFAL-Honolulu-ROI-SIDS)
+- [Aid Disbursement & Effectiveness in Small Island Developing States (SIDS)](https://github.com/NSF-ALL-SPICE-Alliance/CIFAL-Honolulu-ROI-SIDS)
 - [Comparison of Outcomes by Service Setting for Substance Abuse Treatment in Hawaii](https://github.com/NSF-ALL-SPICE-Alliance/CDC-Treatment-ML)
 - [National Mental Health Services Survey](https://github.com/kbenozat/MH-NHSS)
 - [Maunalua Fishpond Heritage Center Dashboard & Analysis](https://github.com/NSF-ALL-SPICE-Alliance/MFHC)
 - [Coral Stress Test Analysis](https://github.com/SubinCho26/CoralHealthWeb)
 
+
 #### URE Fall 2023
-- 
+
 
 #### SPICE Summer Program 2023
 - Pacific Innovation Intelligence Initiative (P3I) Funded Projects
   - [Climate Natural Language Processing (NLP)](https://github.com/NSF-ALL-SPICE-Alliance/SPICE-P3I-Climate-Health-NLP)
-  - [Resillience in Small Island Deveolipng States (SIDS)](https://github.com/NSF-ALL-SPICE-Alliance/SPICE-P3I-SIDS-Resillience)
+  - [Resillience in Small Island Developing States (SIDS)](https://github.com/NSF-ALL-SPICE-Alliance/SPICE-P3I-SIDS-Resillience)
 - EPSCOR Funded Projects
   - [Hawaii Biodiversity](https://github.com/NSF-ALL-SPICE-Alliance/SPICE-Hawaii-Biodiversity)
 - Alliance Funded Projects
   - [Housing & Tax Equity](https://github.com/NSF-ALL-SPICE-Alliance/SPICE-Housing-Tax-Equity)
   - [Good Health & Well-Being](https://github.com/NSF-ALL-SPICE-Alliance/SPICE-Health)
  
-  
+
+#### URE Spring 2023
 
 
