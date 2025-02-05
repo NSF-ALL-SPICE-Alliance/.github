@@ -12,8 +12,7 @@ This Github Organization is to collaborate, share, and ensure the reproducibilit
 
 ### All-SPICE Alliance Vision Statement
 
-*Harness the data revolution* in support of sustainability, prosperity, and social justice in the Hawaii-Pacific region, placing *Pacific data in Pacific hands*.
-
+Building Capacity In Hawai`i-Pacific Data Science To Advance Opportunity, Innovation & Support Decision-Making
 
 ### You can expect 
 
